@@ -1,6 +1,5 @@
-package builder_after;
-
-/*
+/**
 Теперь попробуем воспроизвести содание объекта Person через
 Билдер, с использованием Lombok
  */
+package builder_after;

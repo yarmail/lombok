@@ -6,7 +6,7 @@ import lombok.EqualsAndHashCode;
  * какие поля использовать для вычисления hashCode, equals
  * По умолчанию используются все не статические поля.
  * Чтобы явно указать, какие поля использовать в equals и hashCode
- * нунжно включить параметр onlyExplicitlyIncuded и
+ * нужно включить параметр onlyExplicitlyIncuded и
  * отметить нужные поля аннотацией @EqualsAndHashCode.Include.
  * Вычисление методов equals и hashCode сделаем на основании поля name.
  */

@@ -7,7 +7,7 @@ import lombok.RequiredArgsConstructor;
  *
  * @NoArgsConstructor - создается конструтор без параметров.
  * @RequiredArgsConstructor - создает конструктор по полям отмеченным @NonNull
- * @AllArgsConstructor создает конструктор со вмести полями.
+ * @AllArgsConstructor создает конструктор со всеми полями.
  */
 @RequiredArgsConstructor
 public class Constructor {
@@ -27,7 +27,4 @@ public class Constructor {
             this.name = name;
         }
     }
-
-
-
  */

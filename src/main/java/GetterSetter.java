@@ -28,7 +28,7 @@ public class GetterSetter {
 и так, для большего удобства
 
 public class GetterSetter {
-    @Getter @Getter private int id;
+    @Getter @Setter private int id;
     @Getter private String name;
 }
 */

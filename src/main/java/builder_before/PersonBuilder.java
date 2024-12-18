@@ -1,8 +1,9 @@
-package buider_before;
+package builder_before;
 
 import java.util.List;
 
 /**
+ * Реализация паттерна Builder своими силами
  * return this
  * как я понимаю такая форма возврата позволяет
  * использовать механизм последовательного вызова

@@ -1,4 +1,4 @@
-package buider_before;
+package builder_before;
 
 import lombok.Getter;
 import lombok.Setter;
